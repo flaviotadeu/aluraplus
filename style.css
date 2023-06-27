@@ -25,6 +25,7 @@ body{
 }
 .container{
     height: 100vh;
+    display: grid;
 }
 .container_botao{
     background-color: var(--botao);
