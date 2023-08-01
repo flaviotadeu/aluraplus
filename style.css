@@ -46,7 +46,7 @@ body{
 }
 .container_aviso{
     font-size: 12px;
-    color:var(--cinza)
+    color:var(--cinza);
 
 }
 .container_titulo{
@@ -74,5 +74,10 @@ width: 80%;
 .descricao_titulo{
     font-weight: 700;
     font-size: 48px;
-    color: var(--branco)
+    color: var(--branco);
+    margin-bottom: 0.1em;
+}
+
+.descricao_texto{
+    color: var(--cinza);
 }
