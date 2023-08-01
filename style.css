@@ -80,4 +80,9 @@ width: 80%;
 
 .descricao_texto{
     color: var(--cinza);
+    font-size: 16px;
+}
+
+.container_descricao{
+    padding: 2em;
 }
