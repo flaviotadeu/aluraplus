@@ -4,7 +4,7 @@
     --botao: #0e2c40;
     --background: #00030C; 
     --fonte-principal: 'Inter';
-    --efeitobotao:#ffffff;
+    --efeitobotao:#00ccff;
 }
 
 body{
@@ -153,7 +153,7 @@ body{
     margin-bottom: 2em;
 }
 
-.containerbotao;hove{
+.containerbotao;hover{
     background-color: var(--efeitobotao);
     color: #FFFFFF;
 }
