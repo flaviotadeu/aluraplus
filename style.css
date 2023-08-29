@@ -4,6 +4,7 @@
     --botao: #0e2c40;
     --background: #00030C; 
     --fonte-principal: 'Inter';
+    --efeitobotao:#ffffff;
 }
 
 body{
@@ -150,4 +151,9 @@ body{
 
 .rodape_logo{
     margin-bottom: 2em;
+}
+
+.containerbotao;hove{
+    background-color: var(--efeitobotao);
+    color: #FFFFFF;
 }
