@@ -157,3 +157,7 @@ body{
     background-color: var(--efeitobotao);
     color: var(--background);
 }
+
+.led_img{
+    filter: drop-shadow(0 0 0.4em rgb(1, 26, 245));
+}
