@@ -5,6 +5,7 @@
     --background: #00030C; 
     --fonte-principal: 'Inter';
     --efeitobotao:#00ccff;
+    --efeito-letra: #ff00dd;
 }
 
 body{
@@ -164,4 +165,8 @@ body{
 
 .led_dispositivos{
     filter: drop-shadow(0 0 0.4em rgb(21, 255, 0));
+}
+
+.efeito_letra{
+    color: var(--efeito-letra);
 }
